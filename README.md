@@ -1,0 +1,2 @@
+# Chest-X-Ray-Image-Segmentation-Using-2D-V-Net-Algorithm-to-Improve-Diagnosis-of-Lung-Disease
+In this research, the method used to obtain the system algorithm with the best performance is a Convolutional Neural Network (CNN) using the V-Net algorithm as a segmentation method which was tested on the chest x-ray dataset. This method can be correlated with the Reverse Transcription-Polymerase Chain Reaction examination or known as RT-PCR.
